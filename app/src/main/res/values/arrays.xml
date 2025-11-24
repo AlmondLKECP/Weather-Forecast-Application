@@ -1,0 +1,44 @@
+<resources>
+    <string-array name="provinces">
+        <item>Bangkok</item>
+        <item>Chiang Mai</item>
+        <item>Phuket</item>
+    </string-array>
+
+    <!-- เขตของกรุงเทพ -->
+    <string-array name="district_bangkok">
+        <item>Phra Nakhon</item>
+        <item>Bang Khen</item>
+        <item>Lat Phrao</item>
+    </string-array>
+
+    <!-- อำเภอของเชียงใหม่ -->
+    <string-array name="district_chiangmai">
+        <item>Mueang Chiang Mai</item>
+        <item>Hang Dong</item>
+        <item>Saraphi</item>
+    </string-array>
+
+    <!-- อำเภอของภูเก็ต -->
+    <string-array name="district_phuket">
+        <item>Mueang Phuket</item>
+        <item>Kathu</item>
+        <item>Thalang</item>
+    </string-array>
+
+    <!-- ตัวอย่างตำบล -->
+    <string-array name="sub_bangkhen">
+        <item>Anusawari</item>
+        <item>Tha Raeng</item>
+    </string-array>
+
+    <string-array name="sub_hangdong">
+        <item>Hang Dong</item>
+        <item>Nong Kwai</item>
+    </string-array>
+
+    <string-array name="sub_thalang">
+        <item>Thep Krasattri</item>
+        <item>Srisunthon</item>
+    </string-array>
+</resources>
