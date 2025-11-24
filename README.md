@@ -27,16 +27,6 @@ JSON Parsing	org.json
 <img width="1080" height="2400" alt="CheckSelectedLocation" src="https://github.com/user-attachments/assets/314221f2-4e70-46a0-bf2d-66d8e64b04db" />
 <img width="1080" height="2400" alt="Check currentLocation" src="https://github.com/user-attachments/assets/19a27d10-0059-4c55-b740-b4d4d0b7ee80" />
 
-**โครงสร้างไฟล์ (Project Structure)**
-app/
- ├── manifests/
- ├── java/com/example/project_final/
- │     ├── MainActivity.kt
- ├── res/
- │    ├── layout/activity_main.xml
- │    ├── drawable/
- │    ├── values/
-
 **โค้ดตัวอย่าง (MainActivity.kt)**
 val timeNow = SimpleDateFormat("HH:mm", Locale("th", "TH")).format(Date())
 findViewById<TextView>(R.id.textUpdatedTime).text = "อัปเดตล่าสุด: $timeNow น."
